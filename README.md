@@ -2,13 +2,8 @@
 
 primeiro projeto
 
-testando
+texto 1
 
-12/04/2023
+texto 2
 
-!?
-??
-
-testando 
-
-mais um teste...acho q é o 6
+## Projeto ok
