@@ -44,7 +44,7 @@ div {
     position: sticky;
     top: 20px;
     background-color: aquamarine;
-    z-index: -1;
+    z-index: -2;
 }
 
 .meu-link {
